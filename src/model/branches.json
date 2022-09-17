@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "marketId": 1,
+        "name": "Korzinka Olmazor",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "marketId": 3,
+        "name": "Baraka Chorsu"
+    },
+    {
+        "id": 3,
+        "marketId": 2,
+        "name": "Makro Chorsu"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 3,
+        "productName": "pepsi",
+        "branchId": 2,
+        "price": 10000
+    },
+    {
+        "id": 4,
+        "productName": "nok",
+        "branchId": 3,
+        "price": 10000
+    },
+    {
+        "id": 5,
+        "productName": "olma",
+        "branchId": 1,
+        "price": 10000
+    }
+]

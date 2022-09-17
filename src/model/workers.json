@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "branchId": 2,
+        "name": "Farruh",
+        "experience": 5,
+        "salary": 2000000
+    },
+    {
+        "id": 3,
+        "name": "Ahmad",
+        "branchId": 1,
+        "expierence": 5,
+        "salary": 2000000
+    },
+    {
+        "id": 4,
+        "name": "Farhod",
+        "branchId": 3,
+        "expierence": 5,
+        "salary": 2000000
+    }
+]
